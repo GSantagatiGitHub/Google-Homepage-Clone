@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 40px;
+  }
+  
+  .nav-list-left {
+    float: left;
+    margin: 16px 10px;
+  }
+  
+  .nav-list-right {
+    float: right;
+    margin: 10px 10px;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .about {
+    margin: 0px 0px 0px 10px;
+  }
+  
+  .store {
+    padding: 20px;
+  }
+  
+  .gmail {
+    margin: 10px;
+    float: right;
+    
+  }
+  
+  .images {
+    margin: 10px;
+    float: right;
+  }
+  
+  #dots {
+    float: right;
+    margin: 5px;
+  }
+  
+  #sign-in-button {
+    background-color: #1E90FF;
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+    margin: 5px 20px;
+    float: right;
+  }
+  
+  #google-img {
+    margin: 200px 0px 0px 300px;
+  }
+  
+  .search-bar {
+    margin: 0px auto;
+    height: 45px;
+    width: 550px;
+    border-radius: 20px;
+    border: 1px solid #dcdcdc;
+  }
+  
+  .center {
+    text-align: center;
+    margin: 10px;
+  }
+  
+  #buttons {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .text {
+    text-align: center;
+    border-radius: 3px;
+    width: 130px;
+    border: none;
+    padding: 10px 1px 10px 1px;
+    background-color: #ebebeb;
+  }
+  
+  #right-btn {
+    margin: 0px 0px 0px 10px;
+  }
+  
+  .left-footer {
+    float: left;
+    margin: 100px 10px 30px 0px;
+  }
+  
+  .right-footer {
+    float: right;
+    margin: 100px 0px 0px 10px;
+  }
+  
+  .Advertising {
+    margin: 10px;
+  }
+  
+  .Business {
+    margin: 20px;
+  }
+  
+  .Privacy {
+    margin: 0px 20px;
+  }
+  
+  .Terms {
+    margin: 0px 20px;
+  }
+  
+  .Settings {
+    margin: 0px 20px;
+  }
